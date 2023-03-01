@@ -1,1 +1,3 @@
-#!/bin/bashgcc -s  $CFILE 
+#!/bin/bash
+gcc -S $CFILE
+ 
