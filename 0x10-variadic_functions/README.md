@@ -60,4 +60,3 @@ You are allowed to use printf
 
 Print a new line at the end of your function
 
-
